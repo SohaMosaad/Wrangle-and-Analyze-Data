@@ -2,15 +2,15 @@
 Udacity project 'data Professional Analyst - Advanced Track'. Using Python and its libraries, gathering data from a variety of sources and in a variety of formats, assessing its quality and tidiness, then cleaning it. This is called data wrangling. The wrangling efforts are documented in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries).
 
 # Project Details
-# Data wrangling, which consists of:
+## Data wrangling, which consists of:
 - Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
 - Assessing data
 - Cleaning data
-- Storing, analyzing, and visualizing your wrangled data
+- Storing, analyzing, and visualizing the wrangled data
 - Reporting on 1) Data wrangling efforts and 2) Data analyses and visualizations
 
 # Gathering Data for this Project
-# Gather each of the three pieces of data in a Jupyter Notebook titled wrangle_act.ipynb:
+## Gather each of the three pieces of data in a Jupyter Notebook titled wrangle_act.ipynb:
 
 - The WeRateDogs Twitter archive. Download this file manually 'twitter_archive_enhanced.csv'
 
@@ -22,10 +22,10 @@ Udacity project 'data Professional Analyst - Advanced Track'. Using Python and i
 After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues. Detect and document nine quality issues and five tidiness issues in wrangle_act.ipynb Jupyter Notebook. 
 
 # Cleaning Data for this Project
-- Clean each of the issues you documented while assessing. Perform this cleaning in wrangle_act.ipynb as well. 
+- Clean each of the issues documented while assessing. Perform this cleaning in wrangle_act.ipynb as well. 
 - Storing, Analyzing, and Visualizing Data for this Project
 Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv. .
-- Analyze and visualize your wrangled data in wrangle_act.ipynb Jupyter Notebook.
+- Analyze and visualize the wrangled data in wrangle_act.ipynb Jupyter Notebook.
 
 # Reporting for this Project
 - report called wrangle_report.pdf that briefly describes the wrangling efforts.
